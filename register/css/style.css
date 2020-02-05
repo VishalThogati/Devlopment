@@ -1,0 +1,28 @@
+#login{
+    margin-left: 400px;
+    margin-top: 100px;
+    background: white;
+    width: 400px;
+    height: 400px;
+}
+#login1{
+    padding: 8px;
+    width: 200px;
+    margin-left: 20px;
+
+}
+#login2{
+
+    padding: 8px;
+    width: 200px;
+    margin-left: 28px;
+}
+
+#login3{
+    padding: 8px;
+    width: 40px;
+    margin-left: 120px;
+    width: 150px;
+    background-color: green;
+    margin-left: 0px;
+}
